@@ -2,7 +2,7 @@
 
 **Date de réalisation :** Mai 2020
 
-**Cadre du projet :* Cours "Introduction à l’Intelligence Artificielle" en 3ème année à l’ESILV (1ère année du cycle ingénieur), réalisé en groupe avec Dimitri, Stéphane et Alban
+**Cadre du projet :** Cours "Introduction à l’Intelligence Artificielle" en 3ème année à l’ESILV (1ère année du cycle ingénieur), réalisé en groupe avec Dimitri, Stéphane et Alban
 
 **Langage utilisé :** Python
 
