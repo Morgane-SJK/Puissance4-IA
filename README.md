@@ -14,4 +14,6 @@ J’ai développé une Intelligence Artificielle capable de jouer au Puissance 4
 
 L’IA développée repose sur un algorithme Minimax avec élagage Alpha-Beta, ainsi qu’une heuristique dont le principe est expliqué dans le rapport.
 
-Afin de jouer, il vous suffit de lancer le programme python. Il vous sera alors demandé de choisir quel joueur commence. Dans tous les cas, l'IA a les pions représentés par X et vous aurez les pions représentés par O.
+Afin de jouer, il vous suffit de lancer le fichier `Puissance4_Equipe_LightningStrike.py`
+
+Il vous sera alors demandé de choisir quel joueur commence. Dans tous les cas, l'IA a les pions représentés par X et vous aurez les pions représentés par O.
